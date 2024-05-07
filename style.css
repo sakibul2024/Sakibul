@@ -15,6 +15,7 @@
             color: Black;
             text-align: center;
             padding: 0.5rem;
+            text-color: black;
         }
         main {
             max-width: 800px;
