@@ -40,18 +40,4 @@ img {
     width: 150px;}
 
 p {
-             color: antiquewhite}
-
-#t {
-             box-shadow: 3px 0px red}
-
-#a { 
-            border-style: dashed;
-            border-radius: 20px;
-            box-shadow: 5px 4px #0089ff
-            }
-
-#T {
-             border-style: double;
-             box-shadow: 4px -5px ;
-             }
+             color: orange;}
