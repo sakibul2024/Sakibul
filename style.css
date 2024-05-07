@@ -28,3 +28,26 @@
             text-align: center;
             padding: 1rem;
         }
+
+h1 {  
+             font-family: fantasy}
+
+img {
+             border-bottom-right-radius: 20px}
+
+p {
+             color: antiquewhite}
+
+#t {
+             box-shadow: 3px 0px red}
+
+#c { 
+            border-style: dashed;
+            border-radius: 20px;
+            box-shadow: 5px 4px #0089ff
+            }
+
+#T {
+             border-style: double;
+             box-shadow: 4px -5px ;
+             }
